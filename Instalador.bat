@@ -71,7 +71,7 @@ copy tmp\echor.bat usr\bin > nul
 echo Baixando logo do boot...
 bitsadmin /transfer echor /download /priority FOREGROUND http://new-sillyvision.glitch.me/cmdoska/boot_logo.txt "%cd%\boot_logo.txt" > nul
 
-echo Baixando e instalando GOPC... ^(1^/2^)
+echo Baixando e Instalando GOPC... ^(1^/2^)
 
 cls
 echo Baixando e Instalando GPC... ^(2^/2^)
