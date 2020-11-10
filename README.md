@@ -1,4 +1,7 @@
 # Cmdoska
+Cmdoska is now in TeamCM/Cmdoska
+https://github.com/TeamCM/Cmdoska
+
 Cmdoska is a custom cmd of Windows with a package manager, called GPC
 
 What language Cmdoska uses? Cmdoska is made with Batch script of Windows.
